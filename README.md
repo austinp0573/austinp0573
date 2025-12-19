@@ -26,6 +26,9 @@ Currently working on expanding my homelab setup with Proxmox, pfSense, and vario
 
 ## Featured Projects
 
+### [Cowsay as a Service](https://github.com/austinp0573/heroku-cowsay0)
+Web application deployed to Heroku. Built with fastAPI in python. Check it out [here](https://tusko.org)
+
 ### [NVDA Close Predictor](https://github.com/austinp0573/nvda_close_predictor)
 Machine learning project that predicts NVIDIA stock closing prices. Built with Python and Jupyter notebooks, implements time series prediction using historical market data.
 
