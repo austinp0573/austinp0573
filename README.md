@@ -10,7 +10,7 @@ Currently working on expanding my homelab setup with Proxmox, pfSense, and vario
 
 ## Technical Skills
 
-**Languages:** Python, Java, C#/.NET, SQL, C++, Rust, Shell scripting
+**Languages:** Python, Java, C#/.NET, SQL, C/C++, Shell scripting
 
 **Technologies & Tools:** 
 - Spring Boot, .NET frameworks
