@@ -39,7 +39,7 @@ Machine learning project that predicts NVIDIA stock closing prices. Built with P
 ### [Debian 13 NVIDIA Drivers](https://github.com/austinp0573/debian13_nvidia_drivers)
 Shell script for installing NVIDIA proprietary drivers on fresh Debian 13 installations. Actively maintained and used by others in the community. Currently pinned to 580 drivers due to stability issues with newer driver releases.
 
-### [GNSS Breakout Board](https://github.com/austinp0573/Hardware)
+### [GNSS Breakout Board](https://github.com/austinp0573/Hardware/tree/main/Quectel_LC86G-PA_Breakout_Board_V2.1)
 Designed and assembled a custom PCB for GNSS applications. Not my primary focus area, but I think this demonstrates hardware design fundamentals and breadth of my technical interests.
 
 ## Current interests
