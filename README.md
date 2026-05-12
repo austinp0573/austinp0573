@@ -1,58 +1,69 @@
 # Austin Porter
 
-Recent Computer Science graduate with a focus on systems, infrastructure, and backend development. I enjoy working on practical projects that involve Linux systems, networking, and cloud technologies.
+I build software for **systems**, **infrastructure**, and **backend**—Linux, networking, and cloud. Most of what I publish here sits in that space, from homelab automation to edge deployments.
 
-## About Me
+## What I work on
 
-I'm interested in roles involving software engineering, cloud infrastructure, platform engineering, and networking. I like building things that solve real problems and learning new technologies by getting hands-on with them.
+Day-to-day interests: platform-style engineering, cloud and on-prem infrastructure, and networking. I run a homelab built around **Proxmox**, **pfSense**, and self-hosted services as a place to test IaC, upgrades, and service design before they touch production-shaped problems.
 
-Currently working on expanding my homelab setup with Proxmox, pfSense, and various self-hosted services to develop practical skills in infrastructure and deployment.
+## Technical skills
 
-## Technical Skills
+**Languages:** Python, IaC, Bash, SQL, Java, C#/.NET, C/C++
 
-**Languages:** Python, Java, C#/.NET, SQL, C/C++, Shell scripting
+**Stack & tools**
 
-**Technologies & Tools:** 
-- Spring Boot, .NET frameworks
-- Networking (switches, routers, firewalls, wireless APs)
-- VMs and containers (Docker, a little Kubernetes, Packer for image builds)
-- Cloud deployments (chiefly AWS)
-- Ansible, Terraform infrastructure mgmt
-- Linux system administration
-- YOLO/computer vision
-- Edge Hardware (Raspberry Pi, NVIDIA Jetson, various microcontrollers, PCB design)
+- **Multi-cloud:** AWS/Azure/GCP
+- **IaC & automation:** ansible, terraform/opentofu, jenkins
+- **Containers & image supply chain:** Docker, Kubernetes, Packer
+- **Systems & network infrastructure:** Linux administration; switching, routing, firewalls, wireless
+- **Delivery & source control:** Git
+- **Backend & services:** Spring Boot, .NET
+- **Computer vision & embedded / hardware:** YOLO / computer vision; Raspberry Pi, NVIDIA Jetson, microcontrollers, PCB design
 
-## Featured Projects
+## Selected repositories
 
 ### [Person Detection System](https://github.com/austinp0573/PersonDetection)
-Real-time person detection using YOLO11 on NVIDIA Jetson Orin Nano Super. Implemented in C#/.NET 8 with automated email alerts. Demonstrates edge computing and computer vision applications.
+
+Real-time person detection on **NVIDIA Jetson Orin Nano Super** using **YOLO11**, with a **C# / .NET 8** service and automated email alerts.
 
 ### [Terraform Proxmox K8s](https://github.com/austinp0573/terraform-proxmox-k8s)
-Infrastructure as Code project that provisions Kubernetes cluster VMs on Proxmox using Terraform, then generates Ansible inventory for configuration management.
+
+Terraform provisions Kubernetes node VMs on **Proxmox**; output feeds **Ansible** inventory for cluster configuration.
 
 ### [Cowsay as a Service](https://github.com/austinp0573/heroku-cowsay0)
-Web application deployed to Heroku. Built with fastAPI in python. Check it out [here](https://tusko.org)
+
+**FastAPI** app deployed on Heroku. Live instance: [tusko.org](https://tusko.org).
+
+### [Homelab](https://github.com/austinp0573/homelab)
+
+The original iteration of my homelab worked, but it was all ad hoc, felt dirty not having everything properly reproducable and documented, so I'm starting from scratch doing it the right way. With as few exceptions as possible, **it doesn't happen if it's not in** ***code,*** **and tracked with** ***git*****.**
 
 ### [NVDA Close Predictor](https://github.com/austinp0573/nvda_close_predictor)
-Machine learning project that predicts NVIDIA stock closing prices. Built with Python and Jupyter notebooks, implements time series prediction using historical market data.
+
+Time-series / ML experiment in **Python** and Jupyter: closing-price prediction from historical market data.
 
 ### [Debian 13 NVIDIA Drivers](https://github.com/austinp0573/debian13_nvidia_drivers)
-Shell script for installing NVIDIA proprietary drivers on fresh Debian 13 installations. Actively maintained and used by others in the community. Currently pinned to 580 drivers due to stability issues with newer driver releases.
+
+Install script for proprietary NVIDIA drivers on **Debian 13**; maintained for community use (currently targeting **580** series for stability).
 
 ### [GNSS Breakout Board](https://github.com/austinp0573/Hardware/tree/main/Quectel_LC86G-PA_Breakout_Board_V2.1)
-Designed and assembled a custom PCB for GNSS applications. Not my primary focus area, but I think this demonstrates hardware design fundamentals and breadth of my technical interests.
 
-## Current interests
+Custom **Quectel LC86G-PA** breakout: schematic, layout, and bring-up for GNSS prototyping.
 
-- Kubernetes cluster management and high availability configurations
-- AWS cloud services and architecture
-- Advanced networking with pfSense and enterprise routing
-- Self-hosting and infrastructure automation
+## Focus areas
 
-## Get in Touch
+- Self-hosting and infrastructure automation 
+- Kubernetes operations and HA patterns  
+- Cloud architecture and services
+- Advanced networking (pfSense, enterprise-style routing)  
+ 
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/austin-porter-0279ba31b/) or by [email](austinp0573@gmail.com).
+## Contact
+
+[linkedIn](https://www.linkedin.com/in/austin-porter-0279ba31b/) · [email](mailto:austinp0573@gmail.com)
 
 &nbsp;
 
 **466f724a616e6574**
+
+<!-- Bio: I build software for systems, infrastructure, and backend. Linux, networking, cloud. -->
