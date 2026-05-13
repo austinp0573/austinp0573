@@ -36,7 +36,7 @@ Terraform provisions Kubernetes node VMs on **Proxmox**; output feeds **Ansible*
 
 ### [Homelab](https://github.com/austinp0573/homelab)
 
-The original iteration of my homelab worked, but it was all ad hoc, felt dirty not having everything properly reproducable and documented, so I'm starting from scratch doing it the right way. With as few exceptions as possible, **it doesn't happen if it's not in** ***code,*** **and tracked with** ***git*****.**
+The original iteration of my homelab worked, but it was all ad hoc. It felt dirty not having everything properly reproducable and documented, so I'm starting from scratch doing it the right way. With as few exceptions as possible, **it doesn't happen if it's not in** ***code,*** **and tracked with** ***git.***
 
 ### [NVDA Close Predictor](https://github.com/austinp0573/nvda_close_predictor)
 
