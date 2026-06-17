@@ -1,6 +1,6 @@
 # Austin Porter
 
-I build software for **systems**, **infrastructure**, and **backend**—Linux, networking, and cloud. Most of what I publish here sits in that space, from homelab automation to edge deployments.
+I build software for **systems**, **infrastructure**, and **backend**. Linux, networking, and cloud. Most of what I publish here sits in that space, from homelab automation to edge deployments.
 
 ## What I work on
 
